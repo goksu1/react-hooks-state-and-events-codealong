@@ -7,6 +7,7 @@
 
 ## Introduction
 
+
 In this code-along, we'll get some hands-on practice writing components with
 state and setting state based on different kinds of events.
 
